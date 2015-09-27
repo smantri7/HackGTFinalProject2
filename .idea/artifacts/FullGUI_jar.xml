@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FullGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FullGUI_jar</output-path>
+    <root id="archive" name="FullGUI.jar">
+      <element id="module-output" name="FullGUI" />
+    </root>
+  </artifact>
+</component>
